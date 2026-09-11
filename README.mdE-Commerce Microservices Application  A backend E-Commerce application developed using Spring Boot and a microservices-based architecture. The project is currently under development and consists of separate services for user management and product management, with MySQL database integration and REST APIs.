@@ -1,0 +1,88 @@
+E-Commerce Microservices Application
+
+A backend E-Commerce application developed using Spring Boot and a microservices-based architecture. The project is currently under development and consists of separate services for user management and product management, with MySQL database integration and REST APIs./
+
+🚀 Features
+User registration and management
+User profile management
+Role management
+Product management
+Brand management
+Category management
+Product attributes and attribute values
+Product variants and variant values
+Product image management
+CRUD operations
+REST API development
+MySQL database integration
+Cloudinary integration for image management
+Layered architecture (Controller, Service, Repository)
+🛠️ Technologies Used
+
+Backend
+
+Java
+Spring Boot
+Spring MVC
+Spring Data JPA
+Hibernate
+REST API
+Database
+
+MySQL
+
+Other Tools & Technologies
+
+Maven
+Git & GitHub
+Swagger / OpenAPI
+Postman
+Cloudinary
+ModelMapper
+📁 Microservices
+User Service
+
+ecomm-api
+
+Handles:
+
+Users
+Roles
+Profiles
+Email services
+User-related REST APIs
+Product Service
+
+ecomm-product
+
+Handles:
+
+Products
+Brands
+Categories
+Attributes
+Variants
+Product images
+Product-related REST APIs
+📚 Key Learnings
+Understanding microservices architecture
+Developing REST APIs using Spring Boot
+Working with Controller, Service, and Repository layers
+Implementing CRUD operations using Spring Data JPA
+Connecting Spring Boot applications with MySQL
+Managing product and user-related data
+Integrating Cloudinary for image management
+Working with multiple independent Spring Boot services
+🚧 Project Status
+
+Work in Progress
+
+The project is currently under development. Additional features such as service-to-service communication, authentication, and other microservices will be added in future development.
+
+👨‍💻 Author
+
+Rohan Gowda KA
+
+Computer Science Engineering Graduate
+
+GitHub: https://github.com/Rohan-Gowda75
